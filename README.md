@@ -26,11 +26,7 @@ then install python:
 
 
 ## packages
-install openai package
-`pip install --upgrade openai`
-
-then pip install dotenv
-`pip install python-dotenv requests Pillow`
+`pip install python-dotenv requests openai Pillow`
 
 
 ## troubleshooting
